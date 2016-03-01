@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    tools:context="ua.shubs.testelevator.MainActivity"
+    android:background="#262626">
+
+    <ua.shubs.testelevator.ElevatorView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        app:floorColor="#ababab"
+        app:floorTextColor="@android:color/white"
+        app:floorTextPadding="5dp"
+        app:floorTextSize="38sp"/>
+</RelativeLayout>

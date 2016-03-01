@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="ElevatorView">
+        <attr name="floorColor" format="color"/>
+        <attr name="floorTextColor" format="color"/>
+        <attr name="floorTextPadding" format="dimension"/>
+        <attr name="floorBackPadding" format="dimension"/>
+        <attr name="floorTextSize" format="dimension"/>
+    </declare-styleable>
+</resources>
