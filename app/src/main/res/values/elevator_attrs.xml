@@ -6,5 +6,7 @@
         <attr name="floorTextPadding" format="dimension"/>
         <attr name="floorBackPadding" format="dimension"/>
         <attr name="floorTextSize" format="dimension"/>
+        <attr name="shaftColor" format="color"/>
+        <attr name="shaftLineWidth" format="dimension"/>
     </declare-styleable>
 </resources>

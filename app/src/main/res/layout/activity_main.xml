@@ -14,5 +14,6 @@
         app:floorColor="#ababab"
         app:floorTextColor="@android:color/white"
         app:floorTextPadding="5dp"
-        app:floorTextSize="38sp"/>
+        app:floorTextSize="38sp"
+        app:shaftLineWidth="1dp"/>
 </RelativeLayout>
